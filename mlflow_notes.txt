@@ -1,0 +1,13 @@
+
+# Data Scientist leverage mlflow for:
+    1. Experiment tracking and hypothesis testing. 
+    2. Code structuring. 
+    3. Model packaging and dependency management. 
+    4. Evaluating hyperparameters tunning.
+    5. Compare the results of model retraining over time. 
+
+# Usecases:-
+    1. Experiment Tracking - Track parameters and metrics. 
+    2. Model selection and deployment. 
+    3. Model Performance monitoring. 
+    4. Collaborative Project. 
