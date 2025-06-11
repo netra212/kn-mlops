@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 mlflow
-sklearn
+scikit-learn
 keras
 tensorflow
 hyperopt
