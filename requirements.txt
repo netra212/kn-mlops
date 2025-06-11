@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 mlflow
+sklearn
+keras
+tensorflow
+hyperopt
