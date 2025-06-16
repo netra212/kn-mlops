@@ -1,4 +1,4 @@
-#!/Users/netrakc/Desktop/kn-mlops/venv/bin/python3
+#!/Users/user/Desktop/kn-mlops/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

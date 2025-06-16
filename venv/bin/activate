@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/netrakc/Desktop/kn-mlops/venv"
+VIRTUAL_ENV="/Users/user/Desktop/kn-mlops/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
