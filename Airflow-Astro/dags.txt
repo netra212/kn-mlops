@@ -1,0 +1,27 @@
+
+# Key Concepts In Apache Airflow. 
+
+1. DAG (Directed Acyclic Graph):-
+    - Collection of tasks that we want to schedule and run. 
+    Note:-
+        Directed: Task must be a specific sequence. 
+        Acyclic: No Task should be dependent on itself. 
+
+2. Tasks:-
+    - Task represent the individuals unit of work in a DAG. 
+        1. Python functions. 
+        2. Querying a DB. 
+        3. Sending an HTTP request. 
+
+## Why Airflow for MLOPs ?
+- 1. Orchestrating ML Pipelines and ETL Pipelines. 
+
+    Data Ingestions -> Data Preprocessing -> Model Training & Eval -> Model Deployment. 
+
+- 2. TASK Automation. 
+
+- 3. Monitoring And Alert. 
+    a. Real-Time Monitoring - Airflow UI. 
+    b. Task Logs. 
+    c. Alerts and Notifications -> Emails. 
+    d. Retry Mechanism -> Retry Task. 
